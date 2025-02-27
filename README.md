@@ -13,7 +13,7 @@ EZPass is a command-line password manager that helps you generate, store, and ma
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/ezpass.git
+git clone https://github.com/kinzozi/ezpass.git
 cd ezpass
 
 # Install the package

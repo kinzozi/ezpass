@@ -20,7 +20,7 @@ setup(
     description="A simple and secure password manager",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/ezpass",
+    url="https://github.com/kinzozi/ezpass",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
